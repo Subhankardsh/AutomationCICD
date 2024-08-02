@@ -1,0 +1,8 @@
+subhankar\SeleniumFrameworkDesign\AbstractComponents\AbstractComponent.class
+subhankar\SeleniumFrameworkDesign\pageobjects\LandingPage.class
+subhankar\SeleniumFrameworkDesign\pageobjects\ConfirmationPage.class
+subhankar\SeleniumFrameworkDesign\Resources\ExtentReporterNG.class
+subhankar\SeleniumFrameworkDesign\pageobjects\CartPage.class
+subhankar\SeleniumFrameworkDesign\pageobjects\CheckoutPage.class
+subhankar\SeleniumFrameworkDesign\pageobjects\ProductCatalog.class
+subhankar\SeleniumFrameworkDesign\pageobjects\OrderPage.class
